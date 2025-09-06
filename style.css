@@ -1,0 +1,30 @@
+.box {
+    width: 1000px;
+    height: 638px;
+    border: 5px solid red;
+    background-color: black;
+    margin: auto;
+}
+
+.card {
+    width: 800px;
+    height: 250px;
+    background-color: #1FE8B7;
+    font-size: 30px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: #2A5D5A;
+}
+
+.div {
+    width: 300px;
+    background-color: #311313;
+    margin: auto;
+}
